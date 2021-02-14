@@ -1,7 +1,7 @@
-./auto-save-list
-./elpa/
+./auto-save-list/*
+./elpa/*
 ./network-security.data
 ./projectile-bookmarks.eld
 ./bookmarks
 ./recentf
-./transient
+./transient/*
